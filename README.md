@@ -1,6 +1,6 @@
-# AccentMark — Phoneme-Level Accent Fingerprinting
+# AccentMark - Phoneme-Level Accent Fingerprinting
 
-> "Most accent models tell you what accent someone has. AccentMark tells you exactly how their pronunciation differs — phoneme by phoneme."
+> "Most accent models tell you what accent someone has. AccentMark tells you exactly how their pronunciation differs - phoneme by phoneme."
 
 AccentMark is an original research project that shifts the paradigm of accent analysis away from discrete classifications ("Korean accent", "Hindi accent") towards a continuous, interpretable, high-dimensional acoustic fingerprint. By modeling individual phoneme acoustic deviations against a native English reference, it generates a detailed pronunciation profile unique to each speaker.
 
