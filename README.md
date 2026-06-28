@@ -122,7 +122,7 @@ pip install -r requirements.txt
 ```
 
 ### Step 2: Set Up Dataset
-1. Follow the instructions in [README_DATA.md](file:///c:/Users/VANSHIKA/Desktop/AccentMark/accent-fingerprint/data/README_DATA.md) to download and extract L2-ARCTIC speakers.
+1. Follow the instructions in [README_DATA.md](file:///c:/Users/VANSHIKA/Desktop/AccentMark/data/README_DATA.md) to download and extract L2-ARCTIC speakers.
 2. *Alternative (Synthetic Mode)*: If you do not have the dataset, run the notebooks directly. They will automatically call `src/generate_synthetic_data.py` to populate a mock dataset in `data/` for demonstration.
 
 ### Step 3: Run Feature Extraction
