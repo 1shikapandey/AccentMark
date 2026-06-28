@@ -2,7 +2,7 @@
 
 > "Most accent models tell you what accent someone has. AccentMark tells you exactly how their pronunciation differs - phoneme by phoneme."
 
-AccentMark is an original research project that shifts the paradigm of accent analysis away from discrete classifications ("Korean accent", "Hindi accent") towards a continuous, interpretable, high-dimensional acoustic fingerprint. By modeling individual phoneme acoustic deviations against a native English reference, it generates a detailed pronunciation profile unique to each speaker.
+AccentMark is a research project that shifts the paradigm of accent analysis away from discrete classifications ("Korean accent", "Hindi accent") towards a continuous, interpretable, high-dimensional acoustic fingerprint. By modeling individual phoneme acoustic deviations against a native English reference, it generates a detailed pronunciation profile unique to each speaker.
 
 ---
 
@@ -166,6 +166,3 @@ streamlit run app.py
 - **Inclusive ASR**: Identifies phoneme deviation trends to adapt Acoustic Models in speech recognition for foreign speakers.
 - **Forensic Linguistics**: Offers acoustic fingerprint markers of L1 backgrounds and speaker characteristics.
 - **Language Learning (CALL)**: Pinpoints specific phoneme anomalies, enabling systems to give exact corrective feedback to learners.
-
-## 10. Author
-Created and maintained as a Phoneme-Level Accent Fingerprinting research demonstration.
