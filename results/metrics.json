@@ -1,0 +1,10 @@
+{
+    "silhouette_score": 0.33402296900749207,
+    "pca_variance_explained": 0.999186635017395,
+    "speaker_reid_accuracy": 0.4166666666666667,
+    "same_l1_avg_distance": 0.001054892937342326,
+    "diff_l1_avg_distance": 0.30048855145772296,
+    "distance_ratio": 284.8521786625733,
+    "n_common_phonemes": 10,
+    "fingerprint_dim": 170
+}

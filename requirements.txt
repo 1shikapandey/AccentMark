@@ -1,0 +1,11 @@
+librosa
+numpy
+pandas
+scikit-learn
+umap-learn
+matplotlib
+seaborn
+torch
+torchaudio
+streamlit
+textgrid
